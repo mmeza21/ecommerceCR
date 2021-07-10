@@ -1,0 +1,20 @@
+PARA CREAR JSON DESDE CONSOLA PERO EL ARCHIVO YA TIENE LA CARPETA
+-------------------------------------------------------
+//curl -X POST -H "Content-Type: application/json" "https://api.mercadopago.com/users/test_user?access_token=TEST-7504747632902355-082820-0d8ca14f3a967811cfadfa9ab887c602-129806001" -d "{'site_id':'MPE'}"
+--------------------------------------------------------
+Usuarios mercadoPago
+######### Vendedor ###########
+//{"id":635354844,"nickname":"TETE4848235","password":"qatest7703","site_status":"active","email":"test_user_32800014@testuser.com"}
+
+######## Comprador ###########
+//{"id":635356343,"nickname":"TEST8QAQ2HWZ","password":"qatest6439","site_status":"active","email":"test_user_97783259@testuser.com"}
+
+*************************************************************************************************************************************
+-----CUENTA PAYPAL-----
+CORREO: sb-j2uka3066439@personal.example.com
+CLAVE: 8.Wd8I.d
+*********************************************************************************
+Numero de tarjeta: 4009 1753 3280 6176
+nombre: APRO
+fecha: 08/20
+security: 123
